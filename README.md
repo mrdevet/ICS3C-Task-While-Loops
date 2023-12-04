@@ -22,7 +22,7 @@ In the file `q4.py`, write a program that asks the user for a number and then pr
 
 ## Question 5
 
-In the file `q5.pu`, write a program that asks the user for a base number and then prints the first 10 powers of that base number.
+In the file `q5.py`, write a program that asks the user for a base number and then prints the first 10 powers of that base number.
 
 For example, if the base number is 2, then its powers are 2, 4, 8, 16, 32, 64, ...
 
